@@ -1,3 +1,4 @@
+// utils & Binding
 import 'package:get/instance_manager.dart';
 
 import '../../controller/HomeController.dart';
