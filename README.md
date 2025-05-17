@@ -41,6 +41,8 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch 
 
 ## 📸 Screenshots
 
+Here is the home screen of the Weather App showing current weather and forecast.
+
 <img src="assets/Screen/Home_Screen_Weather_App.png" alt="Home Screen" width="250"/>
 
 ## 🧠 Future Improvements
