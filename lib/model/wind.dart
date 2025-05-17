@@ -1,3 +1,4 @@
+// Model Wind
 class Wind {
   final double? speed;
   final int? deg;
