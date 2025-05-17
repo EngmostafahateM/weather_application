@@ -1,3 +1,4 @@
+// Model Coord
 class Coord {
   final double? lon;
   final double? lat;
