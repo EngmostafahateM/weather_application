@@ -1,3 +1,4 @@
+// Model Main Weather
 class MainWeather {
   final double? temp;
   final double? feelsLike;
