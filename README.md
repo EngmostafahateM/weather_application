@@ -41,7 +41,7 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch 
 
 ## 📸 Screenshots
 
-![Home Screen](assets/Screen/Home Screen Weather App.png)
+![Home Screen](assets/Screen/home_screen_weather_app.png)
 
 ## 🧠 Future Improvements
 
