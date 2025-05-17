@@ -1,3 +1,4 @@
+// Model Current Weather Data
 import '/model/clouds.dart';
 import '/model/coord.dart';
 import '/model/main_weather.dart';
