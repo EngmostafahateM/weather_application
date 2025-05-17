@@ -18,7 +18,7 @@ class HomeScreen extends GetView<HomeController> {
               child: Column(
                 children: [
                   Container(
-                    height: 400, // زودنا الارتفاع علشان ياخد الكارت
+                    height: 400,
                     decoration: BoxDecoration(
                       image: DecorationImage(
                         colorFilter: ColorFilter.mode(
@@ -31,7 +31,7 @@ class HomeScreen extends GetView<HomeController> {
                         bottomLeft: Radius.circular(25),
                         bottomRight: Radius.circular(25),
                       ),
-                    ),
+                    ), //Weather app Created by Mostafa Hatem
                     child: Stack(
                       children: [
                         AppBar(
@@ -63,7 +63,7 @@ class HomeScreen extends GetView<HomeController> {
                           ),
                         ),
 
-                        // ✅ كارت الطقس الرئيسي
+
                         Positioned(
                           top: 180,
                           left: 20,
