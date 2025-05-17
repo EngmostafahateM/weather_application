@@ -1,3 +1,4 @@
+// Model Weather
 class Weather {
   final int? id;
   final String? main;
