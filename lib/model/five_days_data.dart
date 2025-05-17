@@ -1,3 +1,4 @@
+// Model Five Day Data
 class FiveDayData {
   final String? dateTime;
   final int? temp;
