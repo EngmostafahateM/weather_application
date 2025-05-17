@@ -1,4 +1,4 @@
-
+// Constants Weather App
 class Images {
   Images._();
   static const String cloudyAnim = 'assets/anims/cloudy.json';
