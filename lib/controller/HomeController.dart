@@ -2,7 +2,7 @@ import 'package:get/get_state_manager/get_state_manager.dart';
 import '/model/current_weather_data.dart';
 import '/model/five_days_data.dart';
 import '/service/weather_service.dart';
-
+// Controllers Weather App
 class HomeController extends GetxController {
   String? city;
   String? searchText;
